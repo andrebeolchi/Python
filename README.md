@@ -1,5 +1,5 @@
 ## [Quotes.ToScrape.com](Quotes.ToScrape.com)
-#### Site de frases famosas feito para testar WebScrapping.
+#### Site de frases famosas feito para testar WebScraping.
 O projeto faz:
 1. Exporta todas as frases/autores para uma planilha no Excel
 2. Salva um arquivo CSV com as frases
